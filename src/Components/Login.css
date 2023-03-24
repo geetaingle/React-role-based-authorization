@@ -1,0 +1,27 @@
+h1 {
+  color: #3768c4;
+}
+
+form {
+  display: inline-grid;
+  width: 70%;
+  max-width: 300px;
+}
+label {
+  color: #3768c4;
+  text-align: left;
+}
+input {
+  margin: 10px 0px;
+  height: 25px;
+  border: 1px solid #3768c4;
+  border-radius: 5px;
+}
+button {
+  background-color: #3768c4;
+  border: 1px solid #3768c4;
+  height: 30px;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+}
